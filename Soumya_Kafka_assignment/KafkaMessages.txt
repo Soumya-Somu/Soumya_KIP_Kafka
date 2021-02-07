@@ -1,0 +1,11 @@
+{id=13, name='User 2', age=23, course=Maven}
+{id=13, name='User 1', age=23, course=Maven}
+{id=13, name='User 2', age=23, course=Maven}
+{id=13, name='User 1', age=23, course=Maven}The next message is
+{id=13, name='User 2', age=23, course=Maven}The next message is
+The message is {id=13, name='User 1', age=23, course=Maven}
+The message is {id=13, name='User 2', age=23, course=Maven}
+The message is {id=13, name='User 1', age=23, course=Maven}
+The message is {id=13, name='User 2', age=23, course=Maven}
+{id=13, name='User 1', age=23, course=Maven}
+{id=13, name='User 2', age=23, course=Maven}
